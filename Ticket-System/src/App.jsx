@@ -7,7 +7,7 @@ const App = () => {
       <>
 
         <div class="navbar bg-base-100 shadow-sm flex justify-around items-center">
-          <a class="btn btn-ghost text-xl ml-8">CS — Ticket System</a>
+          <a class="btn btn-ghost text-xl ml-8">CS — Ticket SYSTEM</a>
   {/* বাম পাশের অংশ: লোগো এবং মোবাইলের জন্য টোগল মেনু */}
   <div>
     <div class="dropdown">
